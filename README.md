@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Machine Learning with PyTorch and its integration into UE5
 - 💞️ I’m looking to collaborate on AI and Game Dev Projects.
 - 📫 How to reach me : email me at sparsh1711.alive@gmail.com 
-- 😄 Pronouns: wallmart bag
-- ⚡ Fun fact: My humour is broken
 
 <!---
 Vise-1/Vise-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
